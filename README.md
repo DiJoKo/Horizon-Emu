@@ -24,8 +24,8 @@ English
     <b>Horizon Emu</b> is an application for running <b>Windows x86_64</b> applications on <b>Android</b>
   </p>
 
-<b>Important</b>: The [<b>fake Horizon-Emu</b>] in Google Play Store is no longer available! Thank you for your reportings.
-Please, report fake applications available on AppStores in GitHub first, to spread the warnings. They are not official, paid, and may contain viruses. Thanks
+<b>Important</b>: The [<b>fake Horizon-Emu</b>] in GooglePlay Store is no longer available! Thank you for your reportings.
+Please, report fake applications of ours on AppStores in GitHub/Telegramgroup first, to spread the warnings. They are not official, paid, and may contain viruses. Thanks
 
 ----
 
