@@ -25,7 +25,7 @@ English
   </p>
 
 <b>Important</b>: The [<b>fake Horizon-Emu</b>] in GooglePlay Store is no longer available! Thank you for your reportings.
-Please, report fake applications of ours on AppStores in GitHub/Telegramgroup first, to spread the warnings. They are not official, paid, and may contain viruses. Thanks
+Please, report fake applications of ours on AppStores and in GitHub/Telegramgroup, to spread the warnings. They are not official, paid, and may contain viruses. Thanks
 
 ----
 
